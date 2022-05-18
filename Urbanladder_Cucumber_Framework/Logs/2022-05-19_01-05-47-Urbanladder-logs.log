@@ -1,0 +1,58 @@
+[INFO ] 2022-05-19 01:05:51.094 [main] Logs - Clicking on profile
+[INFO ] 2022-05-19 01:05:51.762 [main] Logs - Clicking on login
+[INFO ] 2022-05-19 01:05:55.025 [main] Logs - Typing login mail
+[INFO ] 2022-05-19 01:05:55.211 [main] Logs - Typing login password
+[INFO ] 2022-05-19 01:05:57.437 [main] Logs - Submitting login details
+[INFO ] 2022-05-19 01:05:57.872 [main] Logs - Typing in search box
+[INFO ] 2022-05-19 01:05:59.643 [main] Logs - clicking on search button
+[INFO ] 2022-05-19 01:06:02.939 [main] Logs - clicking on Product 1
+[INFO ] 2022-05-19 01:06:07.559 [main] Logs - Clicking on add to cart
+[INFO ] 2022-05-19 01:06:07.741 [main] Logs - Getting item name from the cart page
+[INFO ] 2022-05-19 01:06:13.964 [main] Logs - Clicking On ContactUs
+[INFO ] 2022-05-19 01:06:14.065 [main] Logs - Getting page title
+[INFO ] 2022-05-19 01:06:19.391 [main] Logs - Typing in search box
+[INFO ] 2022-05-19 01:06:20.846 [main] Logs - clicking on search button
+[INFO ] 2022-05-19 01:06:23.701 [main] Logs - clicking on Product 1
+[INFO ] 2022-05-19 01:06:26.230 [main] Logs - Closing pop up
+[INFO ] 2022-05-19 01:06:27.044 [main] Logs - Clicking on emi know more
+[INFO ] 2022-05-19 01:06:27.335 [main] Logs - Getting getting heading of emi options
+[INFO ] 2022-05-19 01:06:34.593 [main] Logs - clicking on store button
+[INFO ] 2022-05-19 01:06:38.795 [main] Logs - Clicking on Delhi store
+[INFO ] 2022-05-19 01:06:39.011 [main] Logs - Getting location of the store
+[INFO ] 2022-05-19 01:06:44.180 [main] Logs - Clicking on profile
+[INFO ] 2022-05-19 01:06:44.939 [main] Logs - Clicking on login
+[INFO ] 2022-05-19 01:06:47.931 [main] Logs - Typing login mail
+[INFO ] 2022-05-19 01:06:48.127 [main] Logs - Typing login password
+[INFO ] 2022-05-19 01:06:48.983 [main] Logs - Submitting login details
+[INFO ] 2022-05-19 01:06:49.690 [main] Logs - getting error message on login page
+[INFO ] 2022-05-19 01:06:54.941 [main] Logs - Clicking on profile
+[INFO ] 2022-05-19 01:06:55.864 [main] Logs - clicking on signup
+[INFO ] 2022-05-19 01:06:58.801 [main] Logs - Typing sign up mail
+[INFO ] 2022-05-19 01:06:59.048 [main] Logs - Typing sign up password
+[INFO ] 2022-05-19 01:06:59.169 [main] Logs - Submitting signup details
+[INFO ] 2022-05-19 01:06:59.244 [main] Logs - getting error 1 from signup form
+[INFO ] 2022-05-19 01:07:04.575 [main] Logs - typing mail for subscribing for altest offers
+[INFO ] 2022-05-19 01:07:05.418 [main] Logs - clicking on subscribe
+[INFO ] 2022-05-19 01:07:06.030 [main] Logs - getting message for successfully subscribed
+[INFO ] 2022-05-19 01:07:10.900 [main] Logs - Clicking on profile
+[INFO ] 2022-05-19 01:07:11.407 [main] Logs - Clicking on login
+[INFO ] 2022-05-19 01:07:14.807 [main] Logs - Typing login mail
+[INFO ] 2022-05-19 01:07:14.963 [main] Logs - Typing login password
+[INFO ] 2022-05-19 01:07:16.147 [main] Logs - Submitting login details
+[INFO ] 2022-05-19 01:07:16.497 [main] Logs - Clicking on profile
+[INFO ] 2022-05-19 01:07:19.135 [main] Logs - Clicking on My Profie
+[INFO ] 2022-05-19 01:07:19.291 [main] Logs - Getting Mail from my profile page
+[INFO ] 2022-05-19 01:07:26.466 [main] Logs - Clicking on warranty,return and refund
+[INFO ] 2022-05-19 01:07:26.618 [main] Logs - Getting title for warranty policy
+[INFO ] 2022-05-19 01:07:26.694 [main] Logs - Getting title for Return and refund policy
+[INFO ] 2022-05-19 01:07:31.604 [main] Logs - Clicking on profile
+[INFO ] 2022-05-19 01:07:32.538 [main] Logs - Clicking on login
+[INFO ] 2022-05-19 01:07:35.428 [main] Logs - Typing login mail
+[INFO ] 2022-05-19 01:07:35.585 [main] Logs - Typing login password
+[INFO ] 2022-05-19 01:07:36.716 [main] Logs - Submitting login details
+[INFO ] 2022-05-19 01:07:36.993 [main] Logs - Typing in search box
+[INFO ] 2022-05-19 01:07:38.714 [main] Logs - clicking on search button
+[INFO ] 2022-05-19 01:07:42.002 [main] Logs - clicking on Product 1
+[INFO ] 2022-05-19 01:07:42.203 [main] Logs - Clicking on whishlist icon
+[INFO ] 2022-05-19 01:07:43.392 [main] Logs - Clicking on check Whishlist
+[INFO ] 2022-05-19 01:07:43.554 [main] Logs - Getting Name of the item from wishlistpage
